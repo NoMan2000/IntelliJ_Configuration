@@ -1,0 +1,11 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/node/node.exe">
+      <version-cache version="8.7.0" last-modified="1508448808780" />
+      <npm-package value="$USER_HOME$/node/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
+  </component>
+</application>
