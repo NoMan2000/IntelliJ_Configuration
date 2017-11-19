@@ -12,6 +12,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".htmllintrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
