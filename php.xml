@@ -1,12 +1,12 @@
 <application>
   <component name="MessDetector">
     <phpmd_settings>
-      <MessDetectorConfiguration tool_path="C:\Users\msoileau\Sites\remote\vendor\bin\phpmd.bat" />
+      <MessDetectorConfiguration tool_path="C:\Users\eldorado-soileaum\Sites\eldorado_casino\vendor\bin\phpmd.bat" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration tool_path="C:\Users\msoileau\Sites\remote\vendor\bin\phpcs.bat" />
+      <PhpCSConfiguration tool_path="C:\Users\eldorado-soileaum\Sites\eldorado_casino\vendor\bin\phpcs.bat" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
