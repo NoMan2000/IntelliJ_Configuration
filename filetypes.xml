@@ -5,6 +5,7 @@
       <mapping ext="pcss" type="CSS" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="LiteralAdapters" type="PLAIN_TEXT" />
       <mapping pattern=".htmllintrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
