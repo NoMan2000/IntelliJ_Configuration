@@ -4,7 +4,23 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/lodash" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mongodb" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mongoose" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-datepicker" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
