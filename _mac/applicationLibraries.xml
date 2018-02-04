@@ -28,5 +28,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/tinymce" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/validator" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
   </component>
 </application>
