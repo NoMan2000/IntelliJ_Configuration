@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/faker" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/jquery" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -25,6 +33,10 @@
       <SOURCES />
     </library>
     <library name="@types/react-dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-test-renderer" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
