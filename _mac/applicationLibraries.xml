@@ -1,0 +1,60 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/enzyme" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/enzyme-adapter-react-16" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/faker" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/lodash" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mongodb" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mongoose" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-datepicker" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-test-renderer" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/tinymce" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/validator" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
