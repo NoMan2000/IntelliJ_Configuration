@@ -24,11 +24,19 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/maildev" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/mongodb" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
     <library name="@types/mongoose" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/nodemailer" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
