@@ -3,12 +3,12 @@
     <extensionMap>
       <mapping pattern=".env.testing" type=".env file" />
       <mapping ext="pcss" type="CSS" />
-      <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
@@ -16,6 +16,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="requestor" type="PLAIN_TEXT" />
       <mapping pattern=".htmllintrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="minimalValidCreator" type="PLAIN_TEXT" />
