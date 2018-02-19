@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/enzyme" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -17,6 +21,10 @@
       <SOURCES />
     </library>
     <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jsonwebtoken" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
