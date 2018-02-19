@@ -1,0 +1,40 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/enzyme" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/enzyme-adapter-react-16" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/nodemailer" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/passport" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/passport-jwt" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
