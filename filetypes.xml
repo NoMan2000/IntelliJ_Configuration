@@ -8,6 +8,7 @@
       <mapping pattern=".htmllintrc" type="PLAIN_TEXT" />
       <mapping pattern=".php_history" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="phantomjs" type="PLAIN_TEXT" />
       <mapping pattern="requestor" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="minimalValidCreator" type="PLAIN_TEXT" />
