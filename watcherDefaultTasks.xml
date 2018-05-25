@@ -1,0 +1,44 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--fix" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="js" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="ESLINT" />
+      <option name="output" value="$FilePathRelativeToProjectRoot$" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$USER_HOME$/Sites/client/node_modules/.bin/eslint.cmd" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--single-quote --write --parser flow" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="js" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Prettier" />
+      <option name="output" value="$FilePathRelativeToProjectRoot$" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$USER_HOME$/Sites/client/node_modules/.bin/prettier.cmd" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+  </component>
+</application>
