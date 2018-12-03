@@ -1,6 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
+    <option name="version" value="2.6.1" />
     <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="-129197bd:164c8994cee:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
