@@ -1,12 +1,14 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
-      <MessDetectorConfiguration tool_path="C:\Users\eldorado-soileaum\Sites\eldorado_casino\vendor\bin\phpmd.bat" />
+      <MessDetectorConfiguration tool_path="C:/Users/eldorado-soileaum/Sites/eldorado_casino/vendor/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
-      <PhpCSConfiguration tool_path="C:\Users\eldorado-soileaum\Sites\eldorado_casino\vendor\bin\phpcs.bat" />
+      <PhpCSConfiguration tool_path="C:/Users/eldorado-soileaum/Sites/eldorado_casino/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
