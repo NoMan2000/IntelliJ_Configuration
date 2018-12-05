@@ -1,8 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.6.1" />
+    <option name="allowDataCollection" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-129197bd:164c8994cee:-7fff" />
-    <option name="allowDataCollection" value="true" />
+    <option name="version" value="3.0.0-rc4" />
   </component>
 </application>
