@@ -4,20 +4,20 @@
       <mapping pattern=".env.testing" type=".env file" />
       <mapping ext="pcss" type="CSS" />
       <mapping ext="dist" type="PHP" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
-      <mapping pattern=".htmllintrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="LiteralAdapters" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="uniquephoto" type="PLAIN_TEXT" />
-      <mapping ext="scratchpad" type="PLAIN_TEXT" />
-      <mapping ext="swf" type="PLAIN_TEXT" />
+      <mapping pattern=".htmllintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="cab" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
+      <mapping ext="cab" type="PLAIN_TEXT" />
+      <mapping ext="swf" type="PLAIN_TEXT" />
+      <mapping ext="scratchpad" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
